@@ -329,8 +329,11 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 ### Glossary
 
+* **CLI**: Command Line Interface; Users interact with SWEE by typing commands
+* **GUI**: Graphical User Interdace
 * **Mainstream OS**: Windows, Linux, Unix, MacOS
 * **Private contact detail**: A contact detail that is not meant to be shared with others
+* **Client**: People who are experiencing various challenges in life and receiving assistance by working with the User
 
 --------------------------------------------------------------------------------------------------------------------
 
